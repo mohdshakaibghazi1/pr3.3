@@ -10,7 +10,7 @@ namespace Assignment3._3
     {
         static void Main(string[] args)
         {
-            string decimalStr = "1.34";
+            string decimalStr = "1.84";
             try
             {
                 decimal convertedDecimal = decimal.Parse(decimalStr);
